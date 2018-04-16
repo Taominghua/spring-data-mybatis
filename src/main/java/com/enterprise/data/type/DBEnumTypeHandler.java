@@ -11,7 +11,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 /**
- * Created by mind on 7/17/15.
+ * @author tommy
  */
 public class DBEnumTypeHandler extends BaseTypeHandler<DBEnum> {
     private Class<DBEnum> type;
